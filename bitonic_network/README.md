@@ -6,7 +6,7 @@ this property for every subsequence we use two types of comparators (or a
 switchable comparator in our case). One that outputs the smaller then the larger
 one of its inputs and one that works in the opposite way.
 
-![Switchable comparator interface](./images/comparator)
+![Switchable comparator interface](./images/comparator.png)
 
 The core of the bitonic network is the connection structure. An easily
 generalizable pattern of such sorter networks can be seen on the
